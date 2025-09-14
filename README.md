@@ -47,8 +47,9 @@ Multi-hand support
 
 👩‍💻 Author
 
-Ayesha Tariq 🎓 Software Engineering Student | 💻 Web Developer | 🤖 AI Enthusiast
+CodeXpert 🎓 Software Engineering Student | 💻 Web Developer | 🤖 AI Enthusiast
 
 ⭐ If you like this project, consider giving it a star on GitHub!
+
 
 git add README.md git commit -m "Added professional README" git push
